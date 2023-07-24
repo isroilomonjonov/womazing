@@ -1,0 +1,124 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: content;
+  }
+  
+  .sscc {
+    color: #000;
+    font-family: Raleway;
+    justify-content: center;
+    display: flex;
+  }
+  .nn{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .jk {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3rem;
+  }
+  
+  .v {
+    color: #000;
+    font-family: Raleway;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 140%;
+    /* 28px */
+    letter-spacing: 0.4px;
+  }
+  
+  .kook {
+    color: var(--unnamed, #998e78);
+    font-family: Raleway;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 140%;
+    letter-spacing: 0.3px;
+  }
+  
+  .sultan {
+    color: var(--cta, #6e9c9f);
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-family: Raleway;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 138.9%;
+    letter-spacing: 0.34px;
+  }
+  
+  .js {
+    width: 10%;
+    height: 5%;
+    padding: 22px 50px;
+    gap: 10px;
+    border: 1px solid var(--cta, #6e9c9f);
+  }
+  
+  .teekkok {
+    font-family: Raleway;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    display: flex;
+  }
+  
+  .bb {
+    display: flex;
+  }
+  
+  .class {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 37px;
+  }
+  
+ 
+  .className{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1rem;
+    max-width: 350px;
+  }
+  .poshsha {
+    align-items: center;
+    padding: 15px 30px;
+    border: 1px solid var(--cta, #6E9C9F);
+    background-color: white;
+  
+  }
+  
+  .Ccontainer {
+    align-items: center;
+    width: 305px;
+    height: 115px;
+  }
+  
+  .Kcontainer {
+    align-items: center;
+    width: 348px;
+    height: 111px;
+  }
+  
+  .tel {
+    align-items: center;
+    width: 305px;
+    height: 115px;
+  }
+  .new {
+    font-family: Raleway;
+    justify-content: center;
+    display: flex;
+  }
+  

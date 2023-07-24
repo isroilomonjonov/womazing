@@ -1,0 +1,90 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  height: 100vh;
+  width: 100%;
+  background: white;
+}
+.section {
+  padding: 80px 13% 70px;
+}
+
+.footer {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(90px, auto));
+  gap: 1rem;
+  background: bisque;
+}
+.set {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, auto));
+  gap: 1rem;
+  background-color: white;
+}
+.foot {
+  display: flex;
+  height: 30px;
+}
+.dlyKajdoy {
+  color: #000;
+
+  /* Заголовок h3 */
+  font-family: Raleway;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 140%; /* 35px */
+  letter-spacing: 0.5px;
+}
+.section3P {
+  color: #000;
+
+  /* Обычный текст */
+  font-family: Raleway;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 140%; /* 23.8px */
+  letter-spacing: 0.34px;
+  width: 255px;
+}
+a {
+  color: var(--cta, #6e9c9f);
+
+  /* Обычный текст */
+  font-family: Raleway;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 140%; /* 23.8px */
+  letter-spacing: 0.34px;
+  text-decoration: none;
+}
+.section3Right {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.set{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.image{
+  padding-top: 1rem;
+}
+
+.setH2{
+  color: #000;
+
+/* Заголовок h2 */
+font-family: Raleway;
+font-size: 40px;
+font-style: normal;
+font-weight: 500;
+line-height: 110%; /* 44px */
+letter-spacing: 0.8px;
+}

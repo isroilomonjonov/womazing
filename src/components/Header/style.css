@@ -1,0 +1,136 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.bagraund{
+    background: linear-gradient(90deg,#fff 50%,#e9dcc1 50px);
+}
+
+.nawbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 51px;
+}
+
+.Womazing {
+    color: #000;
+    font-family: Raleway;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 1.6px;
+    text-transform: uppercase;
+
+}
+
+.conteyner1 {
+    display: flex;
+    align-items: center;
+
+}
+
+.conteyner2 ul {
+    display: flex;
+    gap: 45px;
+    list-style-type: none;
+    text-decoration: none;
+
+
+    color: var(--cta, #000000);
+    font-family: Raleway;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 140%;
+    letter-spacing: 0.3px;
+}
+
+.conteyner3 {
+    display: flex;
+    text-decoration: none;
+    align-items: center;
+
+
+}
+
+.conteyner3 a {
+    margin-right: 5px;
+    color: #000;
+    font-family: Raleway;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%;
+    letter-spacing: 0.3px;
+}
+
+.conteyner2 a {
+    text-decoration: none;
+    color: #000;
+}
+
+.sectionText {
+    display: flex;
+    margin-left: 150px;
+    align-items: center;
+    gap: 180px;
+
+    
+}
+
+.h1 {
+    color: #000;
+    font-family: Raleway;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 110%;
+    letter-spacing: 1.1px;
+}
+
+.pText {
+    text-align: right;
+    font-family: Raleway;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%;
+    letter-spacing: 0.4px;
+    padding-top: 45px;
+    margin-right: 150px;
+}
+
+.magazin {
+    display: flex;
+    margin-top: 50px;
+    margin-left: 70px;
+}
+
+.shop {
+    padding: 22px 50px;
+    background: var(--cta, #6E9C9F);
+}
+
+.rasim1 {
+    position: relative;
+    top: 0%;
+}
+
+.rasim2 {
+    position: absolute;
+    left: 48%;
+    top: 70%;
+}
+.rasim3{
+    position: absolute;
+    top: 30%;
+    left: 78%;
+}
+.rasimla{
+    padding: 40px;
+
+}
